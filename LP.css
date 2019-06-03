@@ -1,0 +1,35 @@
+
+body {
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 15px;
+  color: #637988;
+}
+
+.red{
+  color: red;
+}
+
+.media{
+  padding: 15px;
+  background-color: #ff7f50;
+  font-size: 24px;
+}
+
+.continer{
+  width: 70%;
+  margin: 0 auto;
+}
+
+.first-content img{
+  display: block;
+}
+
+.title{
+  border-left: double 10px black;
+  border-bottom: double 10px black;
+}
+
+.title h2{
+  line-height: 30px;
+  margin-left: 15px;
+}
